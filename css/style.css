@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#top{
+    width: 400px;
+    height: 100px;
+    background: #74acdf;
+}
+#bottom{
+    width: 400px;
+    height: 100px;
+    background:#74acdf;
+}
+#center{
+    width: 400px;
+    height: 100px;
+    background: #ffffff;
+}
+.argentina img{
+    width: 100px;
+    height: 100px;
+}
+.argentina{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.color{
+    color:#000;
+}
